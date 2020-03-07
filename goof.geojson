@@ -28,7 +28,7 @@
             },
             "properties": {
                 "name": "Brooklyn Nets",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Barclays Center"
             }
         },
         {
@@ -43,7 +43,7 @@
             },
             "properties": {
                 "name": "New York Knicks",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Madison Square Garden"
             }
         },
         {
@@ -58,7 +58,7 @@
             },
             "properties": {
                 "name": "Philadelphia 76ers",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Wells Fargo Center"
             }
         },
         {
@@ -73,7 +73,7 @@
             },
             "properties": {
                 "name": "Toronto Raptors",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Scotiabank Arena"
             }
         },
         {
@@ -88,7 +88,7 @@
             },
             "properties": {
                 "name": "Chicago Bulls",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "United Center"
             }
         },
         {
@@ -103,7 +103,7 @@
             },
             "properties": {
                 "name": "Cleveland Cavaliers",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Rocket Mortgage FieldHouse"
             }
         },
         {
@@ -118,7 +118,7 @@
             },
             "properties": {
                 "name": "Detroit Pistons",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Little Caesars Arena"
             }
         },
         {
@@ -133,7 +133,7 @@
             },
             "properties": {
                 "name": "Indiana Pacers",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Bankers Life FieldHouse"
             }
         },
         {
@@ -148,7 +148,7 @@
             },
             "properties": {
                 "name": "Milwaukee Bucks",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Fiserv Forum"
             }
         },
         {
@@ -163,7 +163,7 @@
             },
             "properties": {
                 "name": "Atlanta Hawks",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "State Farm Arena"
             }
         },
         {
@@ -178,7 +178,7 @@
             },
             "properties": {
                 "name": "Charlotte Hornets",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Spectrum Center"
             }
         },
         {
@@ -193,7 +193,7 @@
             },
             "properties": {
                 "name": "Miami Heat",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "American Airlines Arena"
             }
         },
         {
@@ -208,7 +208,7 @@
             },
             "properties": {
                 "name": "Orlando Magic",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Amway Center"
             }
         },
         {
@@ -223,7 +223,7 @@
             },
             "properties": {
                 "name": "Washington Wizards",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Capital One Arena"
             }
         },
         {
@@ -238,7 +238,7 @@
             },
             "properties": {
                 "name": "Denver Nuggets",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Pepsi Center"
             }
         },
         {
@@ -253,7 +253,7 @@
             },
             "properties": {
                 "name": "Minnesota Timberwolves",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Target Center"
             }
         },
         {
@@ -268,7 +268,7 @@
             },
             "properties": {
                 "name": "Oklahoma City Thunder",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Chesapeake Energy Arena"
             }
         },
         {
@@ -283,7 +283,7 @@
             },
             "properties": {
                 "name": "Portland Trail Blazers",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Moda Center"
             }
         },
         {
@@ -298,7 +298,7 @@
             },
             "properties": {
                 "name": "Utah Jazz",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Vivint Smart Home Arena"
             }
         },
         {
@@ -313,7 +313,7 @@
             },
             "properties": {
                 "name": "Golden State Warriors",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Chase Center"
             }
         },
         {
@@ -328,7 +328,22 @@
             },
             "properties": {
                 "name": "Los Angeles Clippers",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Staples Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.071389,
+                    33.445833,
+                    0
+                ]
+            },
+             "properties": {
+                "name": "Los Angeles Lakers",
+                "description": "Staples Center"
             }
         },
         {
@@ -343,7 +358,7 @@
             },
             "properties": {
                 "name": "Phoenix Suns",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Talking Stick Resort Arena"
             }
         },
         {
@@ -358,7 +373,7 @@
             },
             "properties": {
                 "name": "Sacramento Kings",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Golden 1 Center"
             }
         },
         {
@@ -373,7 +388,7 @@
             },
             "properties": {
                 "name": "Dallas Mavericks",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "American Airlines Center"
             }
         },
         {
@@ -388,7 +403,7 @@
             },
             "properties": {
                 "name": "Houston Rockets",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Toyota Center"
             }
         },
         {
@@ -403,7 +418,7 @@
             },
             "properties": {
                 "name": "Memphis Grizzlies",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "FedExForum"
             }
         },
         {
@@ -418,7 +433,7 @@
             },
             "properties": {
                 "name": "New Orleans Pelicans",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "Smoothie King Center"
             }
         },
         {
@@ -433,7 +448,7 @@
             },
             "properties": {
                 "name": "San Antonio Spurs",
-                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+                "description": "AT&T Center"
             }
         }
     ]
