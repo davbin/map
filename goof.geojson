@@ -6,14 +6,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.0822035425683,
-                    37.42228990140251,
+                   -71.062228,
+                    42.366303,
                     0
                 ]
             },
             "properties": {
-                "name": "Simple placemark",
-                "description": "Attached to the ground. Intelligently places itself\n       at the height of the underlying terrain."
+                "name": "Boston Celtics",
+                "description": "TD Garden"
             }
         },
         
@@ -22,14 +22,14 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.0822035425683,
-                    47.42228990140251,
+                    -73.974689,
+                    40.68265,
                     0
                 ]
             },
             "properties": {
-                "name": "Simple placemark",
-                "description": "Attached to the ground. Intelligently places itself\n       at the height of the underlying terrain."
+                "name": "Brooklyn Nets",
+                "description": "Barclays Center"
             }
         },
                   {
@@ -37,16 +37,17 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.0822035425683,
-                    57.42228990140251,
+                    -73.993611,
+                    40.750556,
                     0
                 ]
             },
             "properties": {
-                "name": "Simple placemark",
-                "description": "Attached to the ground. Intelligently places itself\n       at the height of the underlying terrain."
+                "name": "New York Knicks",
+                "description": "Madison Square Garden"
             }
         }
-               
+         
+        
     ]
 }
