@@ -6,30 +6,31 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -71.062228,
-                    42.366303,
+                    -122.0822035425683,
+                    37.42228990140251,
                     0
                 ]
             },
             "properties": {
-                "name": "Boston Celtics",
-                "description": "TD Garden"
+                "name": "Simple placemark",
+                "description": "Attached to the ground. Intelligently places itself\n       at the height of the underlying terrain."
             },
-        {
+                    {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.974689,
-                    40.68265,
+                    -122.0822035425683,
+                    40
                     0
                 ]
             },
             "properties": {
-                "name": "Brooklyn Nets",
-                "description": "Barclays Center"
-              }
-           }
+                "name": "Simple placemark",
+                "description": "Attached to the ground. Intelligently places itself\n       at the height of the underlying terrain."
+            }
+        }
+ 
         }
     ]
 }
