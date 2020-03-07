@@ -15,11 +15,6 @@
                 "name": "Boston Celtics",
                 "description": "TD Garden"
             }
-        }
-    ]
-    "type": "FeatureCollection",
-    "features": [
-        {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
