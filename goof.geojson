@@ -6,7 +6,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   -71.062228,
+                    -71.062228,
                     42.366303,
                     0
                 ]
@@ -16,8 +16,7 @@
                 "description": "TD Garden"
             }
         },
-        
-         {
+        {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -29,10 +28,10 @@
             },
             "properties": {
                 "name": "Brooklyn Nets",
-                "description": "Barclays Center"
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
             }
         },
-                  {
+        {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -44,10 +43,398 @@
             },
             "properties": {
                 "name": "New York Knicks",
-                "description": "Madison Square Garden"
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.171944,
+                    39.901111,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Philadelphia 76ers",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.379167,
+                    43.643333,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Toronto Raptors",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.674167,
+                    41.880556,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Chicago Bulls",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.688056,
+                    41.496389,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cleveland Cavaliers",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.245556,
+                    42.696944,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Detroit Pistons",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.155556,
+                    39.763889,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Indiana Pacers",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.916944,
+                    43.043611,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Milwaukee Bucks",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.396389,
+                    33.757222,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Atlanta Hawks",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.839167,
+                    35.225,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Charlotte Hornets",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.188056,
+                    25.781389,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Miami Heat",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.383611,
+                    28.539167,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Orlando Magic",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.020833,
+                    38.898056,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Washington Wizards",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.0075,
+                    39.748611,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Denver Nuggets",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.276111,
+                    44.979444,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Minnesota Timberwolves",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.515,
+                    35.463333,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oklahoma City Thunder",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.666667,
+                    45.531667,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Portland Trail Blazers",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.901111,
+                    40.768333,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Utah Jazz",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3875,
+                    37.768056,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Golden State Warriors",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.267222,
+                    34.043056,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Los Angeles Clippers",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.071389,
+                    33.445833,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Phoenix Suns",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.518056,
+                    38.649167,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sacramento Kings",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.810278,
+                    32.790556,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Dallas Mavericks",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.362222,
+                    29.750833,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Houston Rockets",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.050556,
+                    35.138333,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Memphis Grizzlies",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.081944,
+                    29.948889,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "New Orleans Pelicans",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.4375,
+                    29.426944,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "San Antonio Spurs",
+                "description": "<br>Source: Wikipedia article <a href=\"https://en.wikipedia.org/wiki/National_Basketball_Association#Teams\">National Basketball Association</a>"
             }
         }
-         
-        
     ]
 }
