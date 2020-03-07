@@ -16,13 +16,14 @@
                 "description": "Attached to the ground. Intelligently places itself\n       at the height of the underlying terrain."
             }
         },
-                    {
+        
+         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -122.0822035425683,
-                    40
+                    47.42228990140251,
                     0
                 ]
             },
@@ -30,8 +31,6 @@
                 "name": "Simple placemark",
                 "description": "Attached to the ground. Intelligently places itself\n       at the height of the underlying terrain."
             }
-        }
- 
         }
     ]
 }
