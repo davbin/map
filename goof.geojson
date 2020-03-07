@@ -15,7 +15,7 @@
                 "name": "Boston Celtics",
                 "description": "TD Garden"
             }
-            {
+        {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
@@ -28,8 +28,8 @@
             "properties": {
                 "name": "Brooklyn Nets",
                 "description": "Barclays Center"
-            }
-        }
+              }
+           }
         }
     ]
 }
