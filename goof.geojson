@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.062228,
+                    42.366303,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Boston Celtics",
+                "description": "TD Garden"
+            }
+        }
+    ]
+}
