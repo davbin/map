@@ -18,3 +18,23 @@
         }
     ]
 }
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.974689,
+                    40.68265,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brooklyn Nets",
+                "description": "Barclays Center"
+            }
+        }
+    ]
+}
